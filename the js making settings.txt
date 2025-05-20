@@ -1,0 +1,53 @@
+//hide on mobile view
+#settings{
+	display: none;
+}
+
+//add styles
+span#settings {
+    position: absolute;
+    left: 6rem;
+    top: 2rem;
+	z-index: 1000000;
+}
+
+//add html elements
+<span id="settings" ><input Type="checkbox" checked="true" title="Show & Hide Settings Panel" onclick="thachka()"/>
+</span>
+
+//on window load or document ready
+if(localStorage.getItem("settings")){
+			var newsa = localStorage.getItem("settings");
+			if(newsa=="false"){
+			document.querySelector("#settings > input[type=checkbox]").checked = 0;
+			thachka();
+			}else{
+				document.querySelector("#settings > input[type=checkbox]").checked = 1;
+				thachka();
+			}
+			
+}
+
+
+
+//related js function
+function thachka(){
+if(localStorage.getItem("settingsa")){
+	var stati = localStorage.getItem("settings")
+}else{
+}
+states = document.querySelector("#settings > input[type=checkbox]").checked
+if(states == true){
+	document.getElementsByTagName("fieldset")[0].style.display = "block";
+	localStorage.setItem("settings", true)
+		document.querySelector("#settings").style.top = "2rem";
+	document.querySelector("#settings").style.left = "6rem";
+}else{
+	document.getElementsByTagName("fieldset")[0].style.display = "none";
+	localStorage.setItem("settings", false)
+	document.querySelector("#settings").style.top = "2px";
+	document.querySelector("#settings").style.left = "0px";
+}
+}
+
+i want to do the above all with js only code
