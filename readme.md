@@ -183,3 +183,319 @@ This project is free to use and modify for personal and commercial purposes.
 <div align="center">
   Made with ❤️ and ☕ by Yasin Ullah!
 </div>
+
+
+
+-----Part 2--------
+
+
+# 📖 Maktabatullah Lughat | مکتبہ اللہ لغات
+### Advanced Islamic Dictionary Search Engine with Regular Expression Support | ریگیکس سپورٹ کے ساتھ جدید اسلامی لغت سرچ انجن
+
+## 🌟 Features | خصوصیات
+
+### 🔍 Advanced Search Capabilities | جدید تلاش کی سہولات
+- **🔤 Regex Support** | **ریگیکس سپورٹ** - Complex pattern matching for precise dictionary search | لغت کی درست تلاش کے لیے پیچیدہ پیٹرن میچنگ
+- **🔄 Synonym Search** | **مترادف تلاش** - Find related words and meanings automatically | متعلقہ الفاظ اور معانی خودکار تلاش
+- **🌐 Multi-Language** | **کثیر لسانی** - Arabic, Urdu, and English dictionary support | عربی، اردو، اور انگریزی لغت کی سہولت
+- **✨ Diacritic Aware** | **اعراب کا خیال** - Search with or without Arabic diacritical marks | عربی اعراب کے ساتھ یا بغیر تلاش
+
+### 📚 Comprehensive Dictionary Collections | جامع لغت کے مجموعے
+- **📖 Arabic-Urdu Dictionary** | **عربی اردو لغت** - Classical Arabic to Urdu translations | کلاسیکی عربی سے اردو ترجمے
+- **🔤 Urdu Dictionary** | **اردو لغت** - Complete Urdu word meanings and usage | مکمل اردو الفاظ کے معانی اور استعمال
+- **🌍 English-Urdu Dictionary** | **انگریزی اردو لغت** - English to Urdu translations | انگریزی سے اردو ترجمے
+- **📝 Etymology Support** | **اشتقاق کی سہولت** - Word origins and root analysis | الفاظ کی اصل اور جڑوں کا تجزیہ
+
+### 🎯 Specialized Features | خصوصی خصوصیات
+- **🕌 Islamic Terms** | **اسلامی اصطلاحات** - Religious and scholarly terminology | مذہبی اور علمی اصطلاحات
+- **📚 Classical Literature** | **کلاسیکی ادب** - References from classical works | کلاسیکی تصانیف سے حوالہ جات
+- **🎓 Academic Support** | **تعلیمی سہولت** - Perfect for students and researchers | طلبہ اور محققین کے لیے مثالی
+- **🔖 Historical Context** | **تاریخی سیاق** - Word usage in historical contexts | تاریخی سیاق میں الفاظ کا استعمال
+
+### 💡 Smart Features | ذہین خصوصیات
+- **⚡ Real-time Search** | **فوری تلاش** - Instant results as you type | ٹائپ کرتے ہی فوری نتائج
+- **💾 Offline Support** | **آف لائن سہولت** - Access dictionary without internet | بغیر انٹرنیٹ کے لغت تک رسائی
+- **📱 Responsive Design** | **موثر ڈیزائن** - Perfect experience on all devices | تمام آلات پر بہترین تجربہ
+- **🎨 Beautiful UI** | **خوبصورت انٹرفیس** - Clean Islamic-themed interface | صاف اسلامی طرز کا انٹرفیس
+
+## 📸 Screenshots | تصاویر
+
+<div align="center">
+
+### Main Dictionary Interface | اصل لغت انٹرفیس
+<img src="pic (1).png" width="300"/> <img src="pic (2).png" width="300"/> <img src="pic (3).png" width="300"/>
+
+### Search Results & Definitions | تلاش کے نتائج اور معانی  
+<img src="pic (4).png" width="300"/> <img src="pic (5).png" width="300"/> <img src="pic (6).png" width="300"/>
+
+### Advanced Search Options | جدید تلاش کے اختیارات
+<img src="pic (7).png" width="300"/> <img src="pic (8).png" width="300"/> <img src="pic (9).png" width="300"/>
+
+</div>
+
+## 🚀 Getting Started | شروعات
+
+### Prerequisites | ضروری چیزیں
+
+
+
+# Modern web browser with Unicode support | یونیکوڈ سپورٹ کے ساتھ جدید ویب براؤزر
+
+# Internet connection for initial data download | ابتدائی ڈیٹا ڈاؤن لوڈ کے لیے انٹرنیٹ کنکشن
+
+
+
+### Installation | انسٹالیشن
+
+
+
+# Clone the repository | ریپوزٹری کلون کریں
+
+
+# Navigate to project directory | پروجیکٹ ڈائرکٹری میں جائیں
+
+
+# Open index.html in browser | index.html کو براؤزر میں کھولیں
+
+open index.html
+
+
+
+## 🔧 Usage | استعمال
+
+### Basic Dictionary Search | بنیادی لغت کی تلاش
+
+
+Simple word search | سادہ لفظ کی تلاش
+Example: کتاب | مثال: کتاب
+
+Arabic word search | عربی لفظ کی تلاش
+Example: کتاب | مثال: کتاب
+
+English word search | انگریزی لفظ کی تلاش
+Example: book | مثال: book
+
+
+
+### Advanced Search Patterns | جدید تلاش کے نمونے
+
+
+Regex patterns | ریگیکس پیٹرن
+Example: کتاب.* | مثال: کتاب.*
+
+Root-based search | جڑ پر مبنی تلاش
+Example: کتب* | مثال: کتب*
+
+Wildcard search | وائلڈ کارڈ تلاش
+Example: کتا؟ | مثال: کتا؟
+
+Multiple word search | متعدد الفاظ کی تلاش
+Example: کتاب\&علم | مثال: کتاب\&علم
+
+
+
+### Search Operators | تلاش کے آپریٹر
+| Operator | Function | استعمال | Example | مثال |
+|----------|----------|---------|---------|-------|
+| `*` | Wildcard | وائلڈ کارڈ | علم* | علم* |
+| `&` | AND operator | اور آپریٹر | کتاب&علم | کتاب&علم |
+| `\|` | OR operator | یا آپریٹر | کتاب\|علم | کتاب\|علم |
+| `""` | Exact match | عین مطابق | "علم النحو" | "علم النحو" |
+| `۔` | Fuzzy search | مبہم تلاش | کتا۔ب | کتا۔ب |
+| `؟` | Variable length | متغیر لمبائی | علم؟ | علم؟ |
+
+### Special Search Features | خصوصی تلاش کی خصوصیات
+| Feature | Symbol | Function | استعمال |
+|---------|---------|----------|---------|
+| **Diacritic Toggle** | Toggle Button | Search with/without diacritics | اعراب کے ساتھ/بغیر تلاش |
+| **Synonym Search** | Checkbox | Find related meanings | متعلقہ معانی تلاش |
+| **English Search** | Checkbox | Enable English dictionary | انگریزی لغت فعال |
+| **Order Ignore** | Hidden Option | Ignore word order | الفاظ کی ترتیب نظرانداز |
+
+## 📚 Dictionary Data Structure | لغت کی ڈیٹا ساخت
+
+### Word Entry Format | لفظ کی انٹری فارمیٹ
+
+
+{
+"word": "Main entry word | اصل لفظ",
+"pronunciation": "Phonetic guide | تلفظ کی رہنمائی",
+"meaning": "Definition and explanation | تعریف اور وضاحت",
+"etymology": "Word origin | لفظ کی اصل",
+"examples": "Usage examples | استعمال کی مثالیں",
+"related_words": "Synonyms and related terms | مترادفات اور متعلقہ الفاظ"
+}
+
+
+
+### Search Categories | تلاش کی اقسام
+- **📖 Quran & Tafseer** | **قرآن و تفسیر** - Quranic terminology and interpretations | قرآنی اصطلاحات اور تفاسیر
+- **⚖️ Fiqh & Fatawa** | **فقہ و فتاویٰ** - Islamic jurisprudence terms | اسلامی فقہ کی اصطلاحات  
+- **📚 General Dictionary** | **عمومی لغت** - General vocabulary and meanings | عمومی الفاظ اور معانی
+- **🎓 Academic Terms** | **تعلیمی اصطلاحات** - Scholarly and technical terminology | علمی اور فنی اصطلاحات
+
+## 🎨 Customization | اپنی پسند کے مطابق
+
+### Search Options | تلاش کے اختیارات
+- **🔄 Synonym Search** | **مترادف تلاش** - Include related words in results | نتائج میں متعلقہ الفاظ شامل
+- **🌍 English Search** | **انگریزی تلاش** - Enable English-Urdu dictionary | انگریزی اردو لغت فعال
+- **✨ Diacritic Sensitivity** | **اعراب کی حساسیت** - Consider Arabic diacritics | عربی اعراب کا خیال
+- **🔀 Order Independence** | **ترتیب کی آزادی** - Match words in any order | کسی بھی ترتیب میں الفاظ ملائیں
+
+### Interface Settings | انٹرفیس کی ترتیبات
+- **📱 Mobile Optimized** | **موبائل آپٹمائزڈ** - Touch-friendly mobile interface | ٹچ فرینڈلی موبائل انٹرفیس
+- **⚙️ Settings Panel** | **سیٹنگز پینل** - Customizable search preferences | قابل تبدیل تلاش کی ترجیحات
+- **💾 Auto-save** | **خودکار محفوظی** - Remember search history | تلاش کی تاریخ یاد رکھیں
+- **🎯 Quick Access** | **فوری رسائی** - Recent searches for quick access | فوری رسائی کے لیے حالیہ تلاشیں
+
+## 🔧 Technical Specifications | تکنیکی تفصیلات
+
+### Technologies Used | استعمال شدہ ٹیکنالوجیز
+- **HTML5** | **HTML5** - Semantic markup for accessibility | رسائی کے لیے معنی خیز مارک اپ
+- **CSS3** | **CSS3** - Modern styling with responsive design | ریسپانسو ڈیزائن کے ساتھ جدید اسٹائلنگ
+- **JavaScript ES6+** | **جاوا اسکرپٹ ES6+** - Advanced search algorithms | جدید تلاش کی الگورتھم
+- **jQuery** | **jQuery** - DOM manipulation and AJAX | DOM میں تبدیلی اور AJAX
+- **LocalForage** | **لوکل فوریج** - Offline data storage | آف لائن ڈیٹا اسٹوریج
+
+### Performance Features | کارکردگی کی خصوصیات
+- **⚡ Lazy Loading** | **لیزی لوڈنگ** - Load dictionary data as needed | ضرورت کے مطابق لغت کا ڈیٹا لوڈ
+- **💾 Intelligent Caching** | **ذہین کیشنگ** - Smart data caching for speed | رفتار کے لیے سمارٹ ڈیٹا کیشنگ
+- **🗜️ Data Compression** | **ڈیٹا کمپریشن** - Optimized file sizes | بہتر فائل سائز
+- **🔍 Fast Search** | **تیز تلاش** - Optimized search algorithms | بہتر تلاش کی الگورتھم
+
+### Browser Compatibility | براؤزر کی مطابقت
+- **Chrome/Edge** | **کروم/ایج** - Full feature support | مکمل فیچر سپورٹ
+- **Firefox** | **فائرفاکس** - Complete compatibility | مکمل مطابقت  
+- **Safari** | **سفاری** - iOS and macOS support | iOS اور macOS سپورٹ
+- **Mobile Browsers** | **موبائل براؤزرز** - Optimized mobile experience | بہتر موبائل تجربہ
+
+## 📖 Dictionary Statistics | لغت کی شماریات
+
+### Content Overview | مواد کا جائزہ
+- **📊 Total Words** | **کل الفاظ** - ~343,700 dictionary entries | تقریباً 343,700 لغت کی انٹریاں
+- **🌐 Languages** | **زبانیں** - Arabic, Urdu, English coverage | عربی، اردو، انگریزی کوریج
+- **📚 Sources** | **ذرائع** - Classical and modern dictionaries | کلاسیکی اور جدید لغات
+- **🔄 Updates** | **اپڈیٹس** - Regular content updates | باقاعدہ مواد کی اپڈیٹس
+
+### Search Performance | تلاش کی کارکردگی
+- **⚡ Speed** | **رفتار** - Real-time search results | فوری تلاش کے نتائج
+- **🎯 Accuracy** | **درستگی** - Precise pattern matching | درست پیٹرن میچنگ
+- **💾 Efficiency** | **کارکردگی** - Optimized memory usage | بہتر میموری کا استعمال
+- **📱 Responsiveness** | **جوابدہی** - Smooth user experience | ہموار صارف تجربہ
+
+## 🤝 Contributing | تعاون
+
+We welcome contributions to improve the dictionary! | لغت کو بہتر بنانے میں ہم تعاون کا خیرمقدم کرتے ہیں!
+
+### How to Contribute | تعاون کا طریقہ
+1. **🍴 Fork the repository** | **ریپوزٹری فورک کریں**
+2. **🌿 Create feature branch** | **فیچر برانچ بنائیں**
+3. **💻 Add dictionary entries** | **لغت کی انٹریاں شامل کریں**
+4. **🧪 Test thoroughly** | **اچھی طرح ٹیسٹ کریں**
+5. **📝 Submit pull request** | **پل ریکویسٹ جمع کریں**
+
+### Contribution Guidelines | تعاون کی رہنمائی
+- Ensure accuracy of dictionary definitions | لغت کی تعریفات کی درستگی یقینی بنائیں
+- Follow Islamic principles in content | مواد میں اسلامی اصولوں کی پیروی کریں
+- Maintain consistent formatting | مستقل فارمیٹنگ برقرار رکھیں
+- Test across different devices | مختلف آلات پر ٹیسٹ کریں
+
+### Areas for Contribution | تعاون کے شعبے
+- **📚 Dictionary Expansion** | **لغت کی توسیع** - Add new words and meanings | نئے الفاظ اور معانی شامل کریں
+- **🔧 Technical Improvements** | **تکنیکی بہتری** - Enhance search algorithms | تلاش کی الگورتھم بہتر بنائیں
+- **🌍 Translation** | **ترجمہ** - Add support for more languages | مزید زبانوں کی سہولت شامل کریں
+- **📱 Mobile Experience** | **موبائل تجربہ** - Improve mobile interface | موبائل انٹرفیس بہتر بنائیں
+
+## 📄 License | لائسنس
+
+This project is licensed under MIT License | یہ پروجیکٹ MIT لائسنس کے تحت ہے
+
+## 🙏 Acknowledgments | تشکرات
+
+- **🕌 Islamic Scholars** | **اسلامی علماء** - For their guidance in lexicography | لغت نگاری میں رہنمائی کے لیے
+- **📚 Classical Lexicographers** | **کلاسیکی لغت نویس** - For foundational dictionary work | بنیادی لغت کے کام کے لیے
+- **💻 Open Source Community** | **اوپن سورس کمیونٹی** - For tools and inspiration | ٹولز اور الہام کے لیے
+- **🌐 Maktaba Jibreel** | **مکتبہ جبریل** - For providing authentic Islamic texts | مستند اسلامی متون فراہم کرنے کے لیے
+
+## 📞 Support | مدد
+
+For support and queries: | مدد اور سوالات کے لیے:
+- 📧 **Email** | **ای میل**: support@maktabatullah.com
+- 🐛 **Issues** | **مسائل**: Create GitHub issue | گٹ ہب مسئلہ بنائیں
+- 💬 **Discussions** | **بحث**: GitHub Discussions | گٹ ہب ڈسکشنز
+- 📺 **Video Help** | **ویڈیو مدد**: YouTube tutorials available | یوٹیوب ٹیوٹوریلز دستیاب
+
+## 🔗 Related Projects | متعلقہ پروجیکٹس
+
+- **🕌 Islamic Search Engine** | **اسلامی سرچ انجن** - Comprehensive Islamic literature search | جامع اسلامی ادب کی تلاش
+- **📖 Quran App** | **قرآن ایپ** - Digital Quran with advanced features | جدید خصوصیات کے ساتھ ڈیجیٹل قرآن
+- **📚 Hadith Collection** | **حدیث کا مجموعہ** - Authentic hadith database | مستند احادیث کا ڈیٹابیس
+
+---
+
+**Author: Yasin Ullah** | **مصنف: یاسین اللہ**  
+**🇵🇰 Pakistani Developer** | **پاکستانی ڈیولپر**
+
+---
+
+*"And it is He who has taught the Quran. He created man and taught him eloquence." - Quran 55:2-4*  
+*"اور اسی نے قرآن سکھایا۔ اس نے انسان کو پیدا کیا اور اسے بیان سکھایا۔" - قرآن 55:2-4*
+
+
+
+# Post
+
+**🌟 Introducing Maktabatullah Lughat - Advanced Islamic Dictionary with AI-Powered Search! | مکتبہ اللہ لغات کا تعارف - AI طاقت سے بھرپور جدید اسلامی لغت! 📚**
+
+Proud to unveil my latest project - a comprehensive Islamic dictionary search engine that revolutionizes how we explore Arabic, Urdu, and English linguistic treasures! | فخر سے اپنے تازہ ترین پروجیکٹ کا اعلان کر رہا ہوں - ایک جامع اسلامی لغت سرچ انجن جو عربی، اردو، اور انگریزی لسانی خزانوں کی تلاش میں انقلاب لاتا ہے!
+
+## ✨ Revolutionary Features | انقلابی خصوصیات:
+
+🔍 **Advanced Regex Search** | **جدید ریگیکس تلاش** - Find words with complex patterns and variations | پیچیدہ پیٹرن اور تغیرات کے ساتھ الفاظ تلاش کریں
+
+📚 **343,700+ Dictionary Entries** | **343,700+ لغت انٹریاں** - Massive collection from classical and modern sources | کلاسیکی اور جدید ذرائع سے بھرپور مجموعہ
+
+🌐 **Trilingual Support** | **تین لسانی سہولت** - Seamless Arabic-Urdu-English integration | بے تکلف عربی-اردو-انگریزی انضمام
+
+💾 **Offline Capability** | **آف لائن صلاحیت** - Access entire dictionary without internet | بغیر انٹرنیٹ کے مکمل لغت تک رسائی
+
+🎯 **Smart Synonyms** | **ذہین مترادفات** - Intelligent word relationship mapping | ذہین الفاظ کے رشتوں کی نقشہ کاری
+
+## 🛠️ Technical Excellence | تکنیکی بہترینی:
+
+- **Real-time Search Algorithm** | **فوری تلاش الگورتھم** - Millisecond response time | ملی سیکنڈ میں جواب
+- **Progressive Web App** | **پروگریسو ویب ایپ** - Native app-like experience | مقامی ایپ جیسا تجربہ
+- **Intelligent Caching** | **ذہین کیشنگ** - Smart memory management | سمارٹ میموری منیجمنٹ
+- **Mobile-First Design** | **موبائل فرسٹ ڈیزائن** - Optimized for all devices | تمام آلات کے لیے بہتر
+
+
+## 🎯 Impact \& Applications | اثرات اور استعمال:
+
+**📖 For Students** | **طلبہ کے لیے** - Perfect companion for Islamic studies | اسلامی علوم کے لیے بہترین ساتھی
+
+**🎓 For Researchers** | **محققین کے لیے** - Advanced research capabilities | جدید تحقیقی صلاحیات
+
+**🕌 For Scholars** | **علماء کے لیے** - Classical text analysis tools | کلاسیکی متن کے تجزیاتی ٹولز
+
+**🌍 For Everyone** | **سب کے لیے** - Bridge between languages and cultures | زبانوں اور ثقافتوں کے درمیان پل
+
+## 🚀 Innovation Highlights | اختراع کی خصوصیات:
+
+✅ **Pattern Recognition** | **پیٹرن پہچان** - Advanced linguistic pattern matching | جدید لسانی پیٹرن میچنگ
+
+✅ **Context Awareness** | **سیاق کی آگاہی** - Understanding word usage contexts | الفاظ کے استعمال کے سیاق کی سمجھ
+
+✅ **Cross-Reference System** | **کراس ریفرنس سسٹم** - Interconnected word relationships | باہمی جڑے ہوئے الفاظ کے رشتے
+
+✅ **Etymology Tracking** | **اشتقاق کا سراغ** - Word origin and development history | الفاظ کی اصل اور ترقی کی تاریخ
+
+## 🔗 Open Source Impact:
+
+This project demonstrates how modern technology can preserve and enhance classical Islamic scholarship while making it accessible to global audiences. | یہ پروجیکٹ ظاہر کرتا ہے کہ جدید ٹیکنالوجی کس طرح کلاسیکی اسلامی علوم کو محفوظ اور بہتر بناتے ہوئے عالمی سامعین کے لیے قابل رسائی بنا سکتی ہے۔
+
+The complete source code is available on GitHub, inviting the global developer community to contribute to this noble cause of knowledge preservation and dissemination. | مکمل سورس کوڈ گٹ ہب پر دستیاب ہے، عالمی ڈیولپر کمیونٹی کو علم کے تحفظ اور تقسیم کے اس عظیم مقصد میں تعاون کی دعوت دے رہا ہے۔
+
+\#IslamicTech \#Dictionary \#Linguistics \#OpenSource \#JavaScript \#WebDevelopment \#ArabicLanguage \#UrduLanguage \#TechForEducation \#Pakistan \#AI \#MachineLearning
+
+**Author: Yasin Ullah | مصنف: یاسین اللہ**
+**Pakistani Developer | پاکستانی ڈیولپر** 🇵🇰
