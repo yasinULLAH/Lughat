@@ -49,10 +49,8 @@ p {
     border-radius: 14px;
     word-spacing: 2px;
     font-size: 1.5vw;
-    font-family: 'jameel noori nastaleeq' !important;
     border: 1px solid #ff0606;
 	 background: #f0ececb3;
-	 <--! box-shadow: 0px -5px 9px; -->
 }
 
 #div {
@@ -93,6 +91,7 @@ Label, legend {
 .st {
 	background: yellow;
 	text-decoration: none !important;
+	font-family: inherit !important;
 }
 
 .inline, legend {
@@ -702,7 +701,7 @@ window.onscroll = function () {
 			theData = theData.replace("[txtToSpan]","<span class='hidden'>").replace(/\[txtToSpan\]/g,"</span><span class='hidden'>");
 			 $("#div").html("")
 			$("#div").append(theData)
-			if(cnt<101){
+			if(cnt<301){
 			}else{
 			document.getElementById("div").innerHTML += '<div id="more" onclick="theFunc()" style="text-align: center;cursor: pointer;color: blue;text-decoration: underline;font-size: 21px;">مزید دکھایئے</div>';
 			}

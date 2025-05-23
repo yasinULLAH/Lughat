@@ -1,0 +1,18 @@
+🚀 Excited to unveil the Maktabatullah Lughat Advance Search Engine! | 🚀 مکتبۃ اللہ لغت ایڈوانس سرچ انجن پیش کرتے ہوئے بہت خوشی ہو رہی ہے! 📖
+
+This powerful, offline-first web application is designed for researchers, students, and anyone interested in in-depth exploration of Urdu, Arabic, and English Lughat (dictionaries) | یہ طاقتور، آف لائن فرسٹ ویب ایپلیکیشن محققین، طلباء، اور ہر اس فرد کے لیے ڈیزائن کی گئی ہے جو اردو، عربی، اور انگریزی لغات، فقہ، اور فتاویٰ کی گہرائی میں تحقیق میں دلچسپی رکھتے ہیں۔
+
+🔍 Key Features Include: | 🔍 اہم خصوصیات میں شامل ہیں:
+
+Advanced Regex Search: Pinpoint exactly what you're looking for. | جدید ریگولر ایکسپریشن تلاش: بالکل وہی تلاش کریں جس کی آپ کو ضرورت ہے۔
+Comprehensive Data: Access a vast collection including Quran Tafsir, Seerat, Dars Nizami, and ~343,700 words across various categories. | جامع ڈیٹا: قرآن تفسیر، سیرت، درس نظامی، اور مختلف زمروں میں تقریباً ۳۴۳٬۷۰۰ الفاظ پر مشتمل ایک وسیع ذخیرے تک رسائی۔
+Offline Access: Works seamlessly without internet after initial setup, thanks to localForage. | آف لائن رسائی: localForage کی بدولت، ابتدائی سیٹ اپ کے بعد انٹرنیٹ کے بغیر بغیر کسی رکاوٹ کے کام کرتا ہے۔
+Smart Search Options: Ignore diacritics, search synonyms, and more for flexible queries. | ذہین تلاش کے اختیارات: لچکدار سوالات کے لیے اعراب کو نظر انداز کریں، مترادفات تلاش کریں، اور بہت کچھ۔
+User-Friendly Interface: Responsive design with clear navigation and search history. | صارف دوست انٹرفیس: واضح نیویگیشن اور تلاش کی تاریخ کے ساتھ ذمہ دار ڈیزائن۔
+The entire project, including its structured data files (.AM format, ~343,700 words), is available for others to use and build upon! | یہ مکمل پروجیکٹ، بشمول اس کی منظم ڈیٹا فائلیں (.AM فارمیٹ، تقریباً ۳۴۳٬۷۰۰ الفاظ)، دوسروں کے استعمال اور اس پر مزید کام کرنے کے لیے دستیاب ہے!
+
+🔗 Check out the project on GitHub, explore its features, and see how you can leverage its data: | 🔗 گٹ ہب پر پروجیکٹ دیکھیں، اس کی خصوصیات کو دریافت کریں، اور دیکھیں کہ آپ اس کے ڈیٹا سے کیسے فائدہ اٹھا سکتے ہیں:
+
+
+#Urdu #Arabic #English #Lughat #Dictionary #IslamicStudies #SearchEngine #Regex #OpenSource #WebDevelopment #OfflineFirst #IslamicKnowledge #DigitalHumanities #Pakistan #Maktabatullah
+#اردو #عربی #انگریزی #لغت #اسلامی_مطالعات #سرچ_انجن #ریجیکس #اوپن_سورس #ویب_ڈیولپمنٹ #آف_لائن_فرسٹ #اسلامی_علم #ڈیجیٹل_ہیومینیٹیز #پاکستان #مکتبۃ_اللہ
